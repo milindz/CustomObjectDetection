@@ -1,5 +1,7 @@
 # CustomObjectDetection
 
+## :memo:  Note
+Create a new python environment and install all the required dependencies from requirements.txt
 
 ## :memo: Decription
 In this project, we detect directions (namely left, right, up, down) from an image using the
@@ -18,6 +20,7 @@ image and also on the real-time feed we receive from the webcam.
 
 
 ## :cloud: Algorithms and technologies used to build this model :-
-1. SSD MobileNet_V2_FPNLite_320x320
-2.Tensorflow Object Detection API
-3. OpenCV
+
+1.  SSD MobileNet_V2_FPNLite_320x320
+2.  Tensorflow Object Detection API
+3.  OpenCV
