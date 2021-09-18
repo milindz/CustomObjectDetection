@@ -1,7 +1,7 @@
 # CustomObjectDetection
 
 ## :memo:  Note
-Create a new python environment and install all the required dependencies from requirements.txt
+Before going forward with the project, create a new python environment and install all the required dependencies from requirements.txt
 
 ## :memo: Decription
 In this project, we detect directions (namely left, right, up, down) from an image using the
